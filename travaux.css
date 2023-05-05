@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(20, 20, 20);
+}
+h1{
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    font-size: 35px;
+    color: white;
+}
+.premiere{
+    display: flex;
+    padding: 10px;
+}
+.deuxieme{
+    display: flex;
+    padding: 10px;
+}
+.jeu{
+    font-size: 20px;
+    display: flex;
+    padding: 20px;
+}
+.bdd{
+    font-size: 20px;
+    padding: 20px;
+}
+.retour{
+    text-align: center;
+    padding: 20px;
+    font-size: 60px;
+    border: 5px;
+    border-style: groove;
+    border-radius: 10px;
+}
